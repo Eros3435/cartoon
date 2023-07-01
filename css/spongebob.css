@@ -12,7 +12,7 @@ header{ background-color: #0457A0;
 header h1{color: white;
 }
 
-h1, h2{
+h1, h2, footer{
 	font-family: 'Slackey', cursive;
 }
 
@@ -43,11 +43,12 @@ h2{font-size: 35px; color:#0457A0;
 	margin: 40px 0 10px;
 }
 
-footer p{ margin: 0; }
+footer p{ margin: 0; font-size: 30px }
 footer{background-color: #0457A0;
 		text-align: center;
 		color: white;
 		padding: 50px;
+
 
 }
 footer a{color: white;}
