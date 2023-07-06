@@ -53,7 +53,7 @@ main{
 	padding: 20px;
 }
 
-main img {max-width: 100%}
+main img {max-width: 100%; height: auto;}
 
 h2{font-size: 35px; color:#0457A0;
 	margin: 40px 0 10px;
